@@ -1,7 +1,4 @@
-# Hi there 👋 
-
-
-
+<!-- # Hi there 👋  -->
 <!--
 **KarthikShetty27/KarthikShetty27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Karthik Shetty</h1>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
