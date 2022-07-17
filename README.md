@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <h1 align="center">Hi 👋, I'm Karthik Shetty</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+
+> <h3><i>"What you do makes a difference, and you have to decide what kind of difference you want to make"</i><br><br>  - <i>Jane Goodall<i></h3> 
