@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://KarthikShetty27.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KarthikShetty27&show_icons=true&theme=dracula&hide_border=true" />
-<!--   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikShetty27&theme=dracula&hide_border=true" /> -->
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikShetty27&theme=dracula&hide_border=true" />
   </a>
 </p>
 <br>
