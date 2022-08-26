@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- Programming Languages    -->
    
 <!-- Statistics  -->
-<h2 align="center"> My Statistics </h2>
+<h2 align='center'> My Statistics    <img width="28px" height="28px" src="README_Images/Statistics.jpg"> </h2>
 <br>
 <p align="left">
   <a href="https://KarthikShetty27.dev/">
