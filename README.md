@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 
 <!-- Quote by Jane Goodall -->
 > <h3><i>"What you do makes a difference, and you have to decide what kind of difference you want to make."</i><br><br>  - <i>Jane Goodall<i></h3> 
-<br>  <hr>
+<br> 
 
 <!-- Programming Languages    -->
-   
-<!-- Statistics  -->
-<h2 align='center'> My Statistics   <img style="display: inline;" width="55px" height="55px" src="README_Images/Statistics.jpg"> </h2> 
 
+
+<!-- Statistics  -->
+<h2 align='center'>📈 My GitHub Stats </h2>
+   
 <br>
 <p align="left">
   <a href="https://KarthikShetty27.dev/">
