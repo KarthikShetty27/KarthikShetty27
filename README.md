@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 
 <!-- Activity Graph -->
 [![KarthikShetty27's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=KarthikShetty27&custom_title=KarthikShetty27%20Contribution%20Graph&bg_color=FFCCB3&color=7A4495&hide_border=true&line=F675A8&point=554994&area_color=F29393&area=true)](https://github.com/KarthikShetty27/github-readme-activity-graph)
+
