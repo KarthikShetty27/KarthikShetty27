@@ -43,11 +43,10 @@ Here are some ideas to get you started:
 
    
 <!-- Kaggle Profile Stats Starts -->
-<h2 align='center'>📈 My Kaggle Profile </h2>
+<h2 align='center'> <img src="README_Images/kaggle_icon.png" width="25" height="25"> My Kaggle Profile </h2>
 <br>
-   
-   ![KarthikSheety27](https://road-to-kaggle-grandmaster.vercel.app/api/simple/KarthikShetty27) 
 
+   ![KarthikSheety27](https://road-to-kaggle-grandmaster.vercel.app/api/simple/KarthikShetty27) 
 <!-- Badges -->
 <!--  Badge Instructions
    * Additionaly, change the {part} value.
