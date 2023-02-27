@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KarthikShetty27/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KarthikShetty27/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KarthikShetty27/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KarthikShetty27/discussion)
-</h2> -->
+ -->
 <!-- Kaggle Profile Stats Ends-->
 
  
