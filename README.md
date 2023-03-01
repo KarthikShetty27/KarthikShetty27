@@ -55,7 +55,7 @@ Here are some ideas to get you started:
    * It both supports dark(default) and light version  -->
 <!-- <h2 align='center'>  
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KarthikShetty27/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KarthikShetty27/dataset)
+
  -->
 <!-- Kaggle Profile Stats Ends-->
 
