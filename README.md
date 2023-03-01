@@ -54,7 +54,7 @@ Here are some ideas to get you started:
        * {part} : competition, datatset, notebook, discussion
    * It both supports dark(default) and light version  -->
 <!-- <h2 align='center'>  
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/KarthikShetty27/competition)
+
 
  -->
 <!-- Kaggle Profile Stats Ends-->
