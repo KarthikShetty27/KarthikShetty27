@@ -52,8 +52,7 @@ Here are some ideas to get you started:
 <!--  Badge Instructions
    * Additionaly, change the {part} value.
        * {part} : competition, datatset, notebook, discussion
-   * It both supports dark(default) and light version  -->
-<!-- <h2 align='center'>  
+
 
 
  -->
