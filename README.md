@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <!-- Badges -->
 <!--  Badge Instructions
    * Additionaly, change the {part} value.
-       * {part} : competition, datatset, notebook, discussion
+
 
 
 
