@@ -44,9 +44,5 @@ Here are some ideas to get you started:
 
 <br>
    
-<!-- Kaggle Profile Stats Starts -->
-<!-- <h2 align='center'> <img src="README_Images/kaggle_icon.png" width="25" height="25"> My Kaggle Profile </h2>
-
-<!-- Kaggle Profile Stats Ends-->
 
  
