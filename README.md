@@ -26,16 +26,39 @@ Here are some ideas to get you started:
 
 
    
-<!-- Statistics  -->
+<!-- Statistics Old -->
 <h2 align='center'>📈 My GitHub Stats </h2>
+<br>
+ <p align="left">
+  <a href="https://KarthikShetty27.dev/">
+   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=KarthikShetty27&show_icons=true&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/KarthikShetty27/github-readme-stats">
+   <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikShetty27&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/KarthikShetty27/github-readme-stats">
+  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&langs_count=12&layout=compact&theme=dracula&hide_border=true" />
+  </a>
+ </p>
+  
+<!-- Activity Graph -->
+[![KarthikShetty27's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarthikShetty27&custom_title=KarthikShetty27's+Github+Activity+Graph&bg_color=FFCCB3&color=7A4495&hide_border=true&line=F675A8&point=554994&area_color=F29393&area=true)](https://github.com/KarthikShetty27/github-readme-activity-graph) 
+
+  <!--  *************************************************** -->
    
+<!-- Statistics Old -->
+<!-- <h2 align='center'>📈 My GitHub Stats </h2>
 <br>
 <p align="left">
   <a href="https://KarthikShetty27.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KarthikShetty27&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikShetty27&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikShetty27&theme=dracula&hide_border=true" />  
   </a>
-</p>
+</p> -->
+
+<!-- KathikShetty27's Stats (TOP Languages -->   
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&langs_count=12&layout=compact "KathikShetty27's Stats")](https://github.com/KarthikShetty27/github-readme-stats) -->
+
+   <!--    *************************************************** -->
+  
    
-<!-- Activity Graph -->
-[![KarthikShetty27's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarthikShetty27&custom_title=KarthikShetty27's+Github+Activity+Graph&bg_color=FFCCB3&color=7A4495&hide_border=true&line=F675A8&point=554994&area_color=F29393&area=true)](https://github.com/KarthikShetty27/github-readme-activity-graph)  
