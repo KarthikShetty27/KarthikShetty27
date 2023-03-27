@@ -38,9 +38,9 @@ Here are some ideas to get you started:
  </a>
 </p> 
 <p align="center">
- <a href="https://github.com/KarthikShetty27/github-readme-stats">
+<!--  <a href="https://github.com/KarthikShetty27/github-readme-stats">
  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&langs_count=12&layout=compact&theme=dracula&hide_border=true" />
- </a>
+ </a> -->
 </p>
 
    
