@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 <!-- Programming Languages    -->
 
-
    
 <!-- Statistics Old -->
 <h2 align='center'>📈 My GitHub Stats </h2>
