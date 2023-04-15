@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <img src="README_Images/Header Image.png" alt="README-File-Header-Image"/>
 <h1 align="center">Hi 👋, I'm Karthik Shetty</h1>
 
