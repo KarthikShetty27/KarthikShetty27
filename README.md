@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Karthik Shetty</h1>
 
 <!-- Quote by Jane Goodall -->
-> <h3><i>"What you do makes a difference, and you have to decide what kind of difference you want to make."</i><br><br>  - <i>Jane Goodall<i></h3> 
-<br> 
+<blockquote>
+  <h3><i>"What you do makes a difference, and you have to decide what kind of difference you want to make."</i><br><br> - <i> Jane Goodall</i> </h3>
+</blockquote>
+
 
 <!-- Programming Languages    -->
 
@@ -29,16 +31,16 @@ Here are some ideas to get you started:
 <br>
 <p align="left">
  <a href="https://KarthikShetty27.dev/">
- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KarthikShetty27&show_icons=true&theme=dracula&hide_border=true" />
+ <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KarthikShetty27&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
  </a>
  <a href="https://github.com/KarthikShetty27/github-readme-stats">
- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikShetty27&theme=dracula&hide_border=true" />
+ <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikShetty27&theme=dracula&hide_border=true" alt="GitHub Streak" />
  </a>
 </p> 
 <p align="center">
-<!--  <a href="https://github.com/KarthikShetty27/github-readme-stats">
+ <a href="https://github.com/KarthikShetty27/github-readme-stats">
  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&langs_count=12&layout=compact&theme=dracula&hide_border=true" />
- </a> -->
+ </a>
 </p>
 
    
