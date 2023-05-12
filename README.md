@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <p align="left">
  <a href="https://KarthikShetty27.dev/">
- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KarthikShetty27&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+ <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KarthikShetty27&rank_icon=github&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
  </a>
  <a href="https://github.com/KarthikShetty27/github-readme-stats">
  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikShetty27&theme=dracula&hide_border=true" alt="GitHub Streak" />
@@ -39,10 +39,9 @@ Here are some ideas to get you started:
 </p> 
 <p align="center">
  <a href="https://github.com/KarthikShetty27/github-readme-stats">
- <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&langs_count=12&layout=compact&theme=dracula&hide_border=true" />
+ <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&hide=procfile&langs_count=12&layout=donut&theme=dracula&hide_border=true" alt="Top_Languages" />                 
  </a>
 </p>
-
    
 <!-- Activity Graph -->
 [![KarthikShetty27's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarthikShetty27&custom_title=KarthikShetty27's+Github+Activity+Graph&bg_color=FFCCB3&color=7A4495&hide_border=true&line=F675A8&point=554994&area_color=F29393&area=true)](https://github.com/KarthikShetty27/github-readme-activity-graph) 
