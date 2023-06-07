@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 </p>
    
 <!-- Activity Graph -->
-[![KarthikShetty27's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarthikShetty27&custom_title=KarthikShetty27's+Github+Activity+Graph&bg_color=FFCCB3&color=7A4495&hide_border=true&line=F675A8&point=554994&area_color=F29393&area=true)](https://github.com/KarthikShetty27/github-readme-activity-graph) 
+<!-- [![KarthikShetty27's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KarthikShetty27&custom_title=KarthikShetty27's+Github+Activity+Graph&bg_color=FFCCB3&color=7A4495&hide_border=true&line=F675A8&point=554994&area_color=F29393&area=true)](https://github.com/KarthikShetty27/github-readme-activity-graph)  -->
+
+[![KarthikShetty27's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthikShetty27&custom_title=KarthikShetty27's+Github+Activity+Graph&bg_color=FFCCB3&color=7A4495&hide_border=true&line=F675A8&point=554994&area_color=F29393&area=true&theme=dracula)](https://github.com/KarthikShetty27/github-readme-activity-graph)
 
 <!--  *************************************************** -->
 <!-- Statistics Old -->
@@ -59,6 +61,4 @@ Here are some ideas to get you started:
 
 <!-- KathikShetty27's Stats (TOP Languages -->   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&langs_count=12&layout=compact "KathikShetty27's Stats")](https://github.com/KarthikShetty27/github-readme-stats) -->
-<!--    *************************************************** -->
-  
-   
+<!--    *************************************************** -->   
