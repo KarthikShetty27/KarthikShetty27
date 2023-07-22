@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </blockquote>
 
 
-<!-- Programming Languages    -->
+<!-- Programming Languages Badges   -->
 
    
 <!-- Statistics Old -->
