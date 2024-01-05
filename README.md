@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p> 
 <p align="center">
  <a href="https://github.com/KarthikShetty27/github-readme-stats">
- <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&hide=procfile&langs_count=12&layout=donut&theme=dracula&hide_border=true" alt="Top_Languages" />                 
+ <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikShetty27&hide=procfile,PureBasic&langs_count=12&layout=donut&theme=dracula&hide_border=true" alt="Top_Languages" />                 
  </a>
 </p>
    
